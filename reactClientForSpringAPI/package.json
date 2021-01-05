@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axion": "^0.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.7.0",
     "react-browser-router": "^2.1.2",
     "react-dom": "^16.7.0",
